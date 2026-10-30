@@ -1,0 +1,7 @@
+.vercel/
+backup/
+*.log
+*-preview.png
+course-updated.png
+structure-preview.txt
+__pycache__/
